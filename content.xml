@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260413182214Q6EVNH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260413182214Z32RKO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El Universo de las Emociones</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776094669381</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnxcwppe-4mt154hm4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El Universo de las Emociones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Universo de las Emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Universo de las Emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Universo de las Emociones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppe-4mt154hm4</odePageId>
+      <odeBlockId>block-1775665241321-ol5qspvuk</odeBlockId>
+      <blockName>Descripción de la situación de aprendizaje.</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppe-4mt154hm4</odePageId>
+          <odeBlockId>block-1775665241321-ol5qspvuk</odeBlockId>
+          <odeIdeviceId>idevice-1775665241318-yk08iiucy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Etapa educativa y nivel al que se dirige:</strong></em></p>
+<p>La situación de aprendizaje está dirigida al alumnado de 6º de Primaria, que se divide en dos grupos:</p>
+<ul style="list-style-type: circle;">
+<li>6ºA 12 alumnas/os</li>
+<li>6ºB 13 alumnas/os</li>
+</ul>
+<p><em><strong>Áreas, materias y/o módulos implicados:</strong></em></p>
+<p>La Situación de Aprendizaje que se plantea va dirigida al <strong>bienestar emocional,</strong> por lo que considero adecuado plantearla como algo interdisciplinar, ya que el bienestar emocional atraviesa múltiples ámbitos del desarrollo del alumnado. No solo corresponde a una materia concreta, sino que se puede trabajar desde varias áreas del currículo de forma integrada. </p>
+<p>Destaca su carácter transversal a todas las materias en las que se fortalecerán a implementarán los conceptos trabajados en la situación de aprendizaje. Las sesiones que se diseñen se llevarán a cabo cada semana en una asignatura diferente, para no afectar al contenido de ninguna en concreto.</p>
+<p><em><strong>Agrupamientos y organización espacial:</strong></em><br /></p>
+<p>En la situación de aprendizaje se trabajarán las diferentes emociones primarias y partiendo de ellas se desglosarán las emociones secundarias que las componen. Seis emociones principales son las que articulan todo este mapa visual. Tres se sitúan en la parte superior: <strong>alegría, amor y felicidad</strong>; y otras tres se sitúan en la parte inferior: <strong>miedo, ira y tristeza</strong>.</p>
+<p>Para trabajar estas seis emociones dividiremos los grupos en 3 subgrupos para que cada grupo trabaje con una de las emociones. El aula se dividirá en grupos de trabajo de esta manera:</p>
+<ul>
+<li>6ºA: <img src="{{context_path}}/content/resources/mceclip0.png" width="195" height="68" alt="" /></li>
+<li>6ºB:<img src="{{context_path}}/content/resources/5.png" width="187" height="58" alt="" /></li>
+</ul>
+<p><em><strong>Temporalización:</strong></em></p>
+<ol>
+<li>Primera sesión de presentación de la SdA, formación de grupos, organización del aula y metodologías de trabajo</li>
+<li>Segunda sesión: emociones primarias. Contenido y actividades.</li>
+<li>Tercera sesión: emociones secundarias. Contenido y actividades.</li>
+<li>Cuarta sesión: Trabajo cooperativo, cada grupo una emoción principal.</li>
+<li>Quinta sesión: presentación de los proyectos.</li>
+<li>Última sesión:  autoevaluación y reflexión.</li>
+</ol>
+<p><em><strong>Productos que desarrollará el alumnado:</strong></em><br /></p>
+<p><em></em>A lo largo de la presente Situación de Aprendizaje, el alumnado elaborará diversos productos vinculados al desarrollo de la competencia emocional, tanto individuales como grupales, algunas de estas:</p>
+<ul>
+<li>Actividades interactivas individuales o colectivas: al finalizar los contenidos.</li>
+<li>Infografía digital: Cada grupo trabajará una emoción principal (alegría, miedo, tristeza, ira…) que incluirá: definición de la emoción; situaciones en las que aparece; manifestaciones físicas y cognitivas; estrategias de regulación.</li>
+<li>Producto digital final: el alumnado elaborará un producto de divulgación emocional, que podrá ser un vídeo o un podcast.</li>
+</ul>
+<p><em><strong>Herramientas tecnológicas que utilizarán docentes y alumnado:</strong></em></p>
+<p><em></em>Para las actividades relativas a los contenidos se utilizarán las herramientas que ofrece ExeLearning.</p>
+<p>Para las infografías digitales se podrán utilizar libremente aplicaciones como: Canva, Genially, Power Point, etc.</p>
+<p>Para la grabación de videos y/o podcast se pueden utilizar aplicaciones como: Loom, Audacity, iMovie, etc.</p>
+<p>Además se utilizarán aplicaciones como: Google Forms para formularios y autoevaluación finales, Teams para la organización de sesiones, bancos de videos como Youtube para apoyar visualmente alguna sesión etc.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775665241318-yk08iiucy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Etapa educativa y nivel al que se dirige:</strong></em></p>\n<p>La situación de aprendizaje está dirigida al alumnado de 6º de Primaria, que se divide en dos grupos:</p>\n<ul style=\"list-style-type: circle;\">\n<li>6ºA 12 alumnas/os</li>\n<li>6ºB 13 alumnas/os</li>\n</ul>\n<p><em><strong>Áreas, materias y/o módulos implicados:</strong></em></p>\n<p>La Situación de Aprendizaje que se plantea va dirigida al <strong>bienestar emocional,</strong> por lo que considero adecuado plantearla como algo interdisciplinar, ya que el bienestar emocional atraviesa múltiples ámbitos del desarrollo del alumnado. No solo corresponde a una materia concreta, sino que se puede trabajar desde varias áreas del currículo de forma integrada. </p>\n<p>Destaca su carácter transversal a todas las materias en las que se fortalecerán a implementarán los conceptos trabajados en la situación de aprendizaje. Las sesiones que se diseñen se llevarán a cabo cada semana en una asignatura diferente, para no afectar al contenido de ninguna en concreto.</p>\n<p><em><strong>Agrupamientos y organización espacial:</strong></em><br /></p>\n<p>En la situación de aprendizaje se trabajarán las diferentes emociones primarias y partiendo de ellas se desglosarán las emociones secundarias que las componen. Seis emociones principales son las que articulan todo este mapa visual. Tres se sitúan en la parte superior: <strong>alegría, amor y felicidad</strong>; y otras tres se sitúan en la parte inferior: <strong>miedo, ira y tristeza</strong>.</p>\n<p>Para trabajar estas seis emociones dividiremos los grupos en 3 subgrupos para que cada grupo trabaje con una de las emociones. El aula se dividirá en grupos de trabajo de esta manera:</p>\n<ul>\n<li>6ºA: <img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"195\" height=\"68\" alt=\"\" /></li>\n<li>6ºB:<img src=\"{{context_path}}/content/resources/5.png\" width=\"187\" height=\"58\" alt=\"\" /></li>\n</ul>\n<p><em><strong>Temporalización:</strong></em></p>\n<ol>\n<li>Primera sesión de presentación de la SdA, formación de grupos, organización del aula y metodologías de trabajo</li>\n<li>Segunda sesión: emociones primarias. Contenido y actividades.</li>\n<li>Tercera sesión: emociones secundarias. Contenido y actividades.</li>\n<li>Cuarta sesión: Trabajo cooperativo, cada grupo una emoción principal.</li>\n<li>Quinta sesión: presentación de los proyectos.</li>\n<li>Última sesión:  autoevaluación y reflexión.</li>\n</ol>\n<p><em><strong>Productos que desarrollará el alumnado:</strong></em><br /></p>\n<p><em></em>A lo largo de la presente Situación de Aprendizaje, el alumnado elaborará diversos productos vinculados al desarrollo de la competencia emocional, tanto individuales como grupales, algunas de estas:</p>\n<ul>\n<li>Actividades interactivas individuales o colectivas: al finalizar los contenidos.</li>\n<li>Infografía digital: Cada grupo trabajará una emoción principal (alegría, miedo, tristeza, ira…) que incluirá: definición de la emoción; situaciones en las que aparece; manifestaciones físicas y cognitivas; estrategias de regulación.</li>\n<li>Producto digital final: el alumnado elaborará un producto de divulgación emocional, que podrá ser un vídeo o un podcast.</li>\n</ul>\n<p><em><strong>Herramientas tecnológicas que utilizarán docentes y alumnado:</strong></em></p>\n<p><em></em>Para las actividades relativas a los contenidos se utilizarán las herramientas que ofrece ExeLearning.</p>\n<p>Para las infografías digitales se podrán utilizar libremente aplicaciones como: Canva, Genially, Power Point, etc.</p>\n<p>Para la grabación de videos y/o podcast se pueden utilizar aplicaciones como: Loom, Audacity, iMovie, etc.</p>\n<p>Además se utilizarán aplicaciones como: Google Forms para formularios y autoevaluación finales, Teams para la organización de sesiones, bancos de videos como Youtube para apoyar visualmente alguna sesión etc.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxcwppi-vcat1xg52</odePageId>
+  <odeParentPageId>page-mnxcwppe-4mt154hm4</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppi-vcat1xg52</odePageId>
+      <odeBlockId>block-1775753179424-k0ab9430f</odeBlockId>
+      <blockName></blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppi-vcat1xg52</odePageId>
+          <odeBlockId>block-1775753179424-k0ab9430f</odeBlockId>
+          <odeIdeviceId>idevice-1775753179423-o8iodzkni</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Justificación e impacto esperado:</strong></em></p>
+<p>La presente Situación de Aprendizaje surge de la necesidad de atender al desarrollo integral del alumnado, incorporando de manera explícita el trabajo del bienestar emocional en el contexto educativo. En la etapa de Educación Primaria, y especialmente en 6º curso, el alumnado comienza a experimentar cambios personales y sociales que requieren herramientas para comprender, expresar y regular sus emociones de forma adecuada.</p>
+<p>En este sentido, la educación emocional se configura como un elemento clave para favorecer el desarrollo de la competencia personal, social y de aprender a aprender, contribuyendo a la mejora de la convivencia, la prevención de conflictos y el fortalecimiento de la autoestima.</p>
+<p>A través de esta Situación de Aprendizaje, se pretende dotar al alumnado de un vocabulario emocional más rico, así como de estrategias para identificar, expresar y gestionar sus emociones en diferentes contextos. Asimismo, se fomenta el desarrollo de habilidades sociales como la empatía, la escucha activa y el respeto hacia los demás.</p>
+<p>De manera complementaria, la propuesta contribuye al desarrollo de la competencia digital del alumnado, mediante el uso responsable y creativo de herramientas tecnológicas para la elaboración de productos como infografías interactivas, vídeos o podcast. Esto favorece no solo la adquisición de destrezas técnicas, sino también el uso crítico y adecuado de los recursos digitales en contextos educativos.</p>
+<p>El enfoque metodológico, basado en metodologías activas, permite al alumnado adoptar un papel activo en su proceso de aprendizaje, favoreciendo la motivación, la implicación y la transferencia de lo aprendido a su vida cotidiana.</p>
+<p>El impacto esperado de esta propuesta se traduce en una mejora del clima de aula, una mayor cohesión grupal y un desarrollo más consciente y saludable de la gestión emocional del alumnado. Asimismo, se espera un progreso en la competencia digital, evidenciado en la capacidad del alumnado para utilizar herramientas tecnológicas de manera autónoma, creativa y responsable, con efectos positivos tanto en su bienestar personal como en sus relaciones interpersonales.</p>
+<p><em><strong>Relación con los Objetivos de Desarrollo Sostenible (ODS):</strong></em><br /></p>
+<p style="text-align: justify;"><em><strong>ODS 3: Salud y Bienestar</strong></em><br />Promueve el bienestar emocional del alumnado, favoreciendo el desarrollo de habilidades para la gestión de emociones y la prevención de problemas relacionados con la salud mental.<br /><em><strong>ODS 4: Educación de Calidad</strong></em><br />Fomenta una educación inclusiva y equitativa, incorporando el desarrollo de competencias emocionales como parte esencial del aprendizaje.<br /><em><strong>ODS 5: Igualdad de Género</strong></em><br />Favorece la expresión emocional libre de estereotipos de género, promoviendo el respeto y la igualdad en la expresión de sentimientos.<br /><em><strong>ODS 16: Paz, Justicia e Instituciones Sólidas</strong></em><br />Contribuye a la mejora de la convivencia escolar mediante el desarrollo de habilidades como la empatía, la resolución pacífica de conflictos y el respeto mutuo.</p>
+<p style="text-align: justify;"><em><strong>Relación con los Retos del siglo XXI:</strong></em></p>
+<p>Esta Situación de Aprendizaje responde a diversos retos del siglo XXI:</p>
+<ul style="list-style-type: circle;">
+<li><strong>Bienestar emocional y salud mental:</strong> Se atiende a la necesidad creciente de dotar al alumnado de herramientas para gestionar el estrés, la frustración y las relaciones interpersonales.</li>
+<li><strong>Competencia social y ciudadana:</strong> Se fomenta la convivencia, la empatía y la cooperación, aspectos fundamentales en sociedades diversas.</li>
+<li><strong>Pensamiento crítico y autoconocimiento:</strong> El alumnado reflexiona sobre sus propias emociones y conductas, desarrollando una mayor conciencia personal.</li>
+<li><strong>Competencia digital responsable:</strong> A través de la creación de productos digitales, el alumnado aprende a utilizar herramientas tecnológicas de manera creativa, crítica y ética.</li>
+<li><strong>Aprendizaje a lo largo de la vida:</strong> Se promueve la adquisición de habilidades emocionales transferibles a diferentes contextos personales, académicos y sociales.</li>
+</ul>
+<p style="text-align: justify;"><em><strong></strong></em><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775753179423-o8iodzkni","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Justificación e impacto esperado:</strong></em></p>\n<p>La presente Situación de Aprendizaje surge de la necesidad de atender al desarrollo integral del alumnado, incorporando de manera explícita el trabajo del bienestar emocional en el contexto educativo. En la etapa de Educación Primaria, y especialmente en 6º curso, el alumnado comienza a experimentar cambios personales y sociales que requieren herramientas para comprender, expresar y regular sus emociones de forma adecuada.</p>\n<p>En este sentido, la educación emocional se configura como un elemento clave para favorecer el desarrollo de la competencia personal, social y de aprender a aprender, contribuyendo a la mejora de la convivencia, la prevención de conflictos y el fortalecimiento de la autoestima.</p>\n<p>A través de esta Situación de Aprendizaje, se pretende dotar al alumnado de un vocabulario emocional más rico, así como de estrategias para identificar, expresar y gestionar sus emociones en diferentes contextos. Asimismo, se fomenta el desarrollo de habilidades sociales como la empatía, la escucha activa y el respeto hacia los demás.</p>\n<p>De manera complementaria, la propuesta contribuye al desarrollo de la competencia digital del alumnado, mediante el uso responsable y creativo de herramientas tecnológicas para la elaboración de productos como infografías interactivas, vídeos o podcast. Esto favorece no solo la adquisición de destrezas técnicas, sino también el uso crítico y adecuado de los recursos digitales en contextos educativos.</p>\n<p>El enfoque metodológico, basado en metodologías activas, permite al alumnado adoptar un papel activo en su proceso de aprendizaje, favoreciendo la motivación, la implicación y la transferencia de lo aprendido a su vida cotidiana.</p>\n<p>El impacto esperado de esta propuesta se traduce en una mejora del clima de aula, una mayor cohesión grupal y un desarrollo más consciente y saludable de la gestión emocional del alumnado. Asimismo, se espera un progreso en la competencia digital, evidenciado en la capacidad del alumnado para utilizar herramientas tecnológicas de manera autónoma, creativa y responsable, con efectos positivos tanto en su bienestar personal como en sus relaciones interpersonales.</p>\n<p><em><strong>Relación con los Objetivos de Desarrollo Sostenible (ODS):</strong></em><br /></p>\n<p style=\"text-align: justify;\"><em><strong>ODS 3: Salud y Bienestar</strong></em><br />Promueve el bienestar emocional del alumnado, favoreciendo el desarrollo de habilidades para la gestión de emociones y la prevención de problemas relacionados con la salud mental.<br /><em><strong>ODS 4: Educación de Calidad</strong></em><br />Fomenta una educación inclusiva y equitativa, incorporando el desarrollo de competencias emocionales como parte esencial del aprendizaje.<br /><em><strong>ODS 5: Igualdad de Género</strong></em><br />Favorece la expresión emocional libre de estereotipos de género, promoviendo el respeto y la igualdad en la expresión de sentimientos.<br /><em><strong>ODS 16: Paz, Justicia e Instituciones Sólidas</strong></em><br />Contribuye a la mejora de la convivencia escolar mediante el desarrollo de habilidades como la empatía, la resolución pacífica de conflictos y el respeto mutuo.</p>\n<p style=\"text-align: justify;\"><em><strong>Relación con los Retos del siglo XXI:</strong></em></p>\n<p>Esta Situación de Aprendizaje responde a diversos retos del siglo XXI:</p>\n<ul style=\"list-style-type: circle;\">\n<li><strong>Bienestar emocional y salud mental:</strong> Se atiende a la necesidad creciente de dotar al alumnado de herramientas para gestionar el estrés, la frustración y las relaciones interpersonales.</li>\n<li><strong>Competencia social y ciudadana:</strong> Se fomenta la convivencia, la empatía y la cooperación, aspectos fundamentales en sociedades diversas.</li>\n<li><strong>Pensamiento crítico y autoconocimiento:</strong> El alumnado reflexiona sobre sus propias emociones y conductas, desarrollando una mayor conciencia personal.</li>\n<li><strong>Competencia digital responsable:</strong> A través de la creación de productos digitales, el alumnado aprende a utilizar herramientas tecnológicas de manera creativa, crítica y ética.</li>\n<li><strong>Aprendizaje a lo largo de la vida:</strong> Se promueve la adquisición de habilidades emocionales transferibles a diferentes contextos personales, académicos y sociales.</li>\n</ul>\n<p style=\"text-align: justify;\"><em><strong></strong></em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxcwppj-1fkj9szt4</odePageId>
+  <odeParentPageId>page-mnxcwppe-4mt154hm4</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppj-1fkj9szt4</odePageId>
+      <odeBlockId>block-1776076074486-vcxyw87g5</odeBlockId>
+      <blockName></blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppj-1fkj9szt4</odePageId>
+          <odeBlockId>block-1776076074486-vcxyw87g5</odeBlockId>
+          <odeIdeviceId>idevice-1776076074484-ad3ce6on9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><em>Competencias clave (descriptores operativos/perfil de salida). </em></strong></p>
+<p><strong>Competencia Personal, Social y de Aprender a Aprender. </strong>Descriptores operativos relacionados:</p>
+<ul style="list-style-type: circle;">
+<li>CPSAA1: Reconoce y expresa emociones, mostrando empatía hacia los demás.</li>
+<li>CPSAA2: Desarrolla hábitos de convivencia y resolución pacífica de conflictos.</li>
+</ul>
+<p><strong>Competencia en Comunicación Lingüística. </strong>Descriptores operativos relacionados:</p>
+<ul style="list-style-type: circle;">
+<li>CCL2: Se expresa de forma oral y escrita con claridad y adecuación.</li>
+<li>CCL5: Participa en interacciones comunicativas respetando normas de convivencia.</li>
+</ul>
+<p><strong>Competencia Digital. </strong>Descriptores operativos relacionados:</p>
+<ul style="list-style-type: circle;">
+<li>CD1: Utiliza herramientas digitales para la búsqueda y creación de información.</li>
+<li>CD2: Crea contenidos digitales de forma individual y colaborativa.</li>
+<li>CD3: Hace un uso responsable, seguro y crítico de la tecnología.</li>
+</ul>
+<p><strong>Competencia ciudadana. </strong>Descriptores operativos relacionados:</p>
+<ul style="list-style-type: circle;">
+<li>CC1: Participa en la vida social respetando normas y valores democráticos.</li>
+<li>CC2: Muestra actitudes de respeto, igualdad y resolución pacífica de conflictos.</li>
+</ul>
+<p style="text-align: center;"><em><strong>Competencias específicas.</strong></em><br /></p>
+<ul style="list-style-type: square;">
+<li>Identificar, comprender y expresar emociones propias y ajenas, reconocer las emociones primarias y secundarias, así como sus manifestaciones, desarrollando la capacidad de expresarlas de forma adecuada en distintos contextos.</li>
+<li>Aplicar estrategias de regulación emocional, desarrollar y aplicar estrategias básicas para la gestión de emociones, favoreciendo el autocontrol, la resolución pacífica de conflictos y el bienestar personal.</li>
+<li>Participar en interacciones sociales de forma respetuosa y cooperativa, colaborar activamente en el trabajo en grupo, mostrando actitudes de respeto, empatía y responsabilidad, y contribuyendo a la consecución de objetivos comunes.</li>
+<li>Expresar y comunicar ideas, emociones e información, utilizar el lenguaje oral, escrito y audiovisual para comunicar de manera clara y adecuada emociones, ideas y conocimientos en diferentes contextos.</li>
+<li>Crear contenidos digitales de forma creativa y responsable, utilizar herramientas digitales para la elaboración de productos (infografías, vídeos o podcast), haciendo un uso adecuado, seguro y creativo de la tecnología.</li>
+</ul>
+<p style="text-align: center;"><em><strong>Saberes básicos.</strong></em><br /></p>
+<p>La presente Situación de Aprendizaje integra diversos saberes básicos relacionados con el desarrollo emocional, la convivencia, la comunicación y el uso de herramientas digitales, abordados desde un enfoque práctico y aplicado.</p>
+<ol style="list-style-type: upper-roman;">
+<li>Conciencia y educación emocional: identificación de emociones primarias (alegría, tristeza, miedo, ira, amor, felicidad); reconocimiento de emociones secundarias y su relación con las emociones básicas; manifestaciones físicas, cognitivas y conductuales de las emociones.</li>
+<li>Regulación emocional y bienestar personal: estrategias básicas de regulación emocional (respiración, autocontrol, expresión adecuada); relación entre emociones, pensamientos y comportamiento; desarrollo de la autoestima y el autoconocimiento; hábitos para el bienestar emocional y la salud mental.</li>
+<li>Habilidades sociales y convivencia: empatía y comprensión de las emociones de los demás; comunicación asertiva; resolución pacífica de conflictos; trabajo cooperativo.</li>
+<li>Comunicación y expresión: expresión oral de ideas, emociones y experiencias; producción de textos orales y escritos con intención comunicativa; uso de diferentes lenguajes (verbal, visual, audiovisual) para comunicar información; presentación de contenidos de forma clara y organizada.</li>
+<li>Competencia digital y creación de contenidos: Uso de herramientas digitales para la búsqueda y organización de información; creación de contenidos digitales (infografías, vídeos, podcast); uso responsable, seguro y ético de la tecnología.</li>
+</ol>
+<p style="text-align: center;"><em><strong>Criterios de evaluación</strong></em></p>
+<p><em></em>Los siguientes criterios de evaluación permiten valorar el grado de adquisición de las competencias específicas desarrolladas en la presente Situación de Aprendizaje, a través de la observación, el análisis de productos elaborados y la participación del alumnado.</p>
+<p><strong>CE1. Identificar, comprender y expresar emociones</strong><br />CE1.1 Identifica y clasifica emociones primarias y secundarias en diferentes situaciones.<br />CE1.2 Describe de forma sencilla las características y manifestaciones de distintas emociones.<br />CE1.3 Expresa emociones propias utilizando un vocabulario adecuado.<br /> <br /><strong>CE2. Aplicar estrategias de regulación emocional</strong><br />CE2.1 Reconoce situaciones en las que es necesario regular las emociones.<br />CE2.2 Aplica estrategias básicas de regulación emocional en contextos guiados.<br />CE2.3 Propone formas adecuadas de gestionar emociones en situaciones cotidianas.<br /> <br /><strong>CE3. Participar en interacciones sociales de forma cooperativa</strong><br />CE3.1 Participa activamente en el trabajo en grupo respetando normas y roles establecidos.<br />CE3.2 Muestra actitudes de respeto, empatía y escucha hacia los demás.<br />CE3.3 Colabora en la consecución de objetivos comunes dentro del grupo.<br /> <br /><strong>CE4. Expresar y comunicar ideas, emociones e información</strong><br />CE4.1 Expone de forma oral información y emociones de manera clara y organizada.<br />CE4.2 Elabora producciones (infografías, vídeos o podcast) con coherencia y adecuación al contenido trabajado.<br />CE4.3 Utiliza diferentes lenguajes (verbal, visual y audiovisual) para comunicar mensajes.<br /> <br /><strong>CE5. Crear contenidos digitales de forma creativa y responsable</strong><br />CE5.1 Utiliza herramientas digitales para la elaboración de productos de forma guiada.<br />CE5.2 Integra elementos digitales (imágenes, audio, enlaces, etc.) en sus producciones.<br />CE5.3 Hace un uso responsable y adecuado de las herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776076074484-ad3ce6on9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><em>Competencias clave (descriptores operativos/perfil de salida). </em></strong></p>\n<p><strong>Competencia Personal, Social y de Aprender a Aprender. </strong>Descriptores operativos relacionados:</p>\n<ul style=\"list-style-type: circle;\">\n<li>CPSAA1: Reconoce y expresa emociones, mostrando empatía hacia los demás.</li>\n<li>CPSAA2: Desarrolla hábitos de convivencia y resolución pacífica de conflictos.</li>\n</ul>\n<p><strong>Competencia en Comunicación Lingüística. </strong>Descriptores operativos relacionados:</p>\n<ul style=\"list-style-type: circle;\">\n<li>CCL2: Se expresa de forma oral y escrita con claridad y adecuación.</li>\n<li>CCL5: Participa en interacciones comunicativas respetando normas de convivencia.</li>\n</ul>\n<p><strong>Competencia Digital. </strong>Descriptores operativos relacionados:</p>\n<ul style=\"list-style-type: circle;\">\n<li>CD1: Utiliza herramientas digitales para la búsqueda y creación de información.</li>\n<li>CD2: Crea contenidos digitales de forma individual y colaborativa.</li>\n<li>CD3: Hace un uso responsable, seguro y crítico de la tecnología.</li>\n</ul>\n<p><strong>Competencia ciudadana. </strong>Descriptores operativos relacionados:</p>\n<ul style=\"list-style-type: circle;\">\n<li>CC1: Participa en la vida social respetando normas y valores democráticos.</li>\n<li>CC2: Muestra actitudes de respeto, igualdad y resolución pacífica de conflictos.</li>\n</ul>\n<p style=\"text-align: center;\"><em><strong>Competencias específicas.</strong></em><br /></p>\n<ul style=\"list-style-type: square;\">\n<li>Identificar, comprender y expresar emociones propias y ajenas, reconocer las emociones primarias y secundarias, así como sus manifestaciones, desarrollando la capacidad de expresarlas de forma adecuada en distintos contextos.</li>\n<li>Aplicar estrategias de regulación emocional, desarrollar y aplicar estrategias básicas para la gestión de emociones, favoreciendo el autocontrol, la resolución pacífica de conflictos y el bienestar personal.</li>\n<li>Participar en interacciones sociales de forma respetuosa y cooperativa, colaborar activamente en el trabajo en grupo, mostrando actitudes de respeto, empatía y responsabilidad, y contribuyendo a la consecución de objetivos comunes.</li>\n<li>Expresar y comunicar ideas, emociones e información, utilizar el lenguaje oral, escrito y audiovisual para comunicar de manera clara y adecuada emociones, ideas y conocimientos en diferentes contextos.</li>\n<li>Crear contenidos digitales de forma creativa y responsable, utilizar herramientas digitales para la elaboración de productos (infografías, vídeos o podcast), haciendo un uso adecuado, seguro y creativo de la tecnología.</li>\n</ul>\n<p style=\"text-align: center;\"><em><strong>Saberes básicos.</strong></em><br /></p>\n<p>La presente Situación de Aprendizaje integra diversos saberes básicos relacionados con el desarrollo emocional, la convivencia, la comunicación y el uso de herramientas digitales, abordados desde un enfoque práctico y aplicado.</p>\n<ol style=\"list-style-type: upper-roman;\">\n<li>Conciencia y educación emocional: identificación de emociones primarias (alegría, tristeza, miedo, ira, amor, felicidad); reconocimiento de emociones secundarias y su relación con las emociones básicas; manifestaciones físicas, cognitivas y conductuales de las emociones.</li>\n<li>Regulación emocional y bienestar personal: estrategias básicas de regulación emocional (respiración, autocontrol, expresión adecuada); relación entre emociones, pensamientos y comportamiento; desarrollo de la autoestima y el autoconocimiento; hábitos para el bienestar emocional y la salud mental.</li>\n<li>Habilidades sociales y convivencia: empatía y comprensión de las emociones de los demás; comunicación asertiva; resolución pacífica de conflictos; trabajo cooperativo.</li>\n<li>Comunicación y expresión: expresión oral de ideas, emociones y experiencias; producción de textos orales y escritos con intención comunicativa; uso de diferentes lenguajes (verbal, visual, audiovisual) para comunicar información; presentación de contenidos de forma clara y organizada.</li>\n<li>Competencia digital y creación de contenidos: Uso de herramientas digitales para la búsqueda y organización de información; creación de contenidos digitales (infografías, vídeos, podcast); uso responsable, seguro y ético de la tecnología.</li>\n</ol>\n<p style=\"text-align: center;\"><em><strong>Criterios de evaluación</strong></em></p>\n<p><em></em>Los siguientes criterios de evaluación permiten valorar el grado de adquisición de las competencias específicas desarrolladas en la presente Situación de Aprendizaje, a través de la observación, el análisis de productos elaborados y la participación del alumnado.</p>\n<p><strong>CE1. Identificar, comprender y expresar emociones</strong><br />CE1.1 Identifica y clasifica emociones primarias y secundarias en diferentes situaciones.<br />CE1.2 Describe de forma sencilla las características y manifestaciones de distintas emociones.<br />CE1.3 Expresa emociones propias utilizando un vocabulario adecuado.<br /> <br /><strong>CE2. Aplicar estrategias de regulación emocional</strong><br />CE2.1 Reconoce situaciones en las que es necesario regular las emociones.<br />CE2.2 Aplica estrategias básicas de regulación emocional en contextos guiados.<br />CE2.3 Propone formas adecuadas de gestionar emociones en situaciones cotidianas.<br /> <br /><strong>CE3. Participar en interacciones sociales de forma cooperativa</strong><br />CE3.1 Participa activamente en el trabajo en grupo respetando normas y roles establecidos.<br />CE3.2 Muestra actitudes de respeto, empatía y escucha hacia los demás.<br />CE3.3 Colabora en la consecución de objetivos comunes dentro del grupo.<br /> <br /><strong>CE4. Expresar y comunicar ideas, emociones e información</strong><br />CE4.1 Expone de forma oral información y emociones de manera clara y organizada.<br />CE4.2 Elabora producciones (infografías, vídeos o podcast) con coherencia y adecuación al contenido trabajado.<br />CE4.3 Utiliza diferentes lenguajes (verbal, visual y audiovisual) para comunicar mensajes.<br /> <br /><strong>CE5. Crear contenidos digitales de forma creativa y responsable</strong><br />CE5.1 Utiliza herramientas digitales para la elaboración de productos de forma guiada.<br />CE5.2 Integra elementos digitales (imágenes, audio, enlaces, etc.) en sus producciones.<br />CE5.3 Hace un uso responsable y adecuado de las herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxcwppk-e3z75ydzn</odePageId>
+  <odeParentPageId>page-mnxcwppe-4mt154hm4</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppk-e3z75ydzn</odePageId>
+      <odeBlockId>block-1776081088605-w5m5kmayb</odeBlockId>
+      <blockName></blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppk-e3z75ydzn</odePageId>
+          <odeBlockId>block-1776081088605-w5m5kmayb</odeBlockId>
+          <odeIdeviceId>idevice-1776081088602-uth3q4i1n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje se basa en metodologías activas que sitúan al alumnado en el centro de su proceso de aprendizaje, destacando especialmente la gamificación y el aprendizaje cooperativo como ejes metodológicos principales.</p>
+<p><strong>Gamificación: </strong>Actividades tipo:</p>
+<ul>
+<li>Quiz interactivo.</li>
+<li>Juegos de identificación emocional (adivinar emociones, retos visuales…).</li>
+<li>Relacionar emociones primarias con secundarias.</li>
+<li>Resolver situaciones emocionales (“¿qué emoción hay detrás?”)</li>
+</ul>
+<p><strong>Aprendizaje cooperativo: </strong></p>
+<ul>
+<li>
+<p>Desarrollo del proyecto en grupo: Investigación, elaboración de la infografía, preparación del producto final, exposición por grupos del proyecto, etc.</p>
+</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776081088602-uth3q4i1n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje se basa en metodologías activas que sitúan al alumnado en el centro de su proceso de aprendizaje, destacando especialmente la gamificación y el aprendizaje cooperativo como ejes metodológicos principales.</p>\n<p><strong>Gamificación: </strong>Actividades tipo:</p>\n<ul>\n<li>Quiz interactivo.</li>\n<li>Juegos de identificación emocional (adivinar emociones, retos visuales…).</li>\n<li>Relacionar emociones primarias con secundarias.</li>\n<li>Resolver situaciones emocionales (“¿qué emoción hay detrás?”)</li>\n</ul>\n<p><strong>Aprendizaje cooperativo: </strong></p>\n<ul>\n<li>\n<p>Desarrollo del proyecto en grupo: Investigación, elaboración de la infografía, preparación del producto final, exposición por grupos del proyecto, etc.</p>\n</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxcwppk-4fl29c6ns</odePageId>
+  <odeParentPageId>page-mnxcwppe-4mt154hm4</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppk-4fl29c6ns</odePageId>
+      <odeBlockId>block-1776082178914-9r4c7rg69</odeBlockId>
+      <blockName></blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppk-4fl29c6ns</odePageId>
+          <odeBlockId>block-1776082178914-9r4c7rg69</odeBlockId>
+          <odeIdeviceId>idevice-1776082178911-p5da92zzb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La presente Situación de Aprendizaje se encuentra estrechamente vinculada con los distintos planes y programas del centro, contribuyendo de manera directa a su desarrollo e implementación.</p>
+<p style="text-align: justify;"><em><strong>Plan Integral de Convivencia</strong></em><br />Contribuyendo al desarrollo de un clima de convivencia positivo mediante el trabajo explícito de la educación emocional, favoreciendo la empatía, la resolución pacífica de conflictos y el respeto mutuo. Las actividades propuestas fomentan habilidades sociales esenciales para la mejora de las relaciones interpersonales y la prevención de conductas disruptivas.</p>
+<p style="text-align: justify;"><em><strong>Plan de Atención a la Diversidad</strong></em><br />La propuesta contempla la diversidad del alumnado mediante el uso de metodologías activas como el aprendizaje cooperativo, que permite la participación de todo el alumnado desde sus diferentes capacidades. Asimismo, se plantean actividades abiertas, flexibles y adaptables, favoreciendo la inclusión y el respeto a los distintos ritmos de aprendizaje.</p>
+<p style="text-align: justify;"><em><strong>Plan Digital del Centro</strong></em><br />Integra el uso de herramientas tecnológicas para la creación de productos digitales (infografías interactivas, vídeos o podcast), promoviendo el desarrollo de la competencia digital del alumnado. Se fomenta un uso responsable, creativo y crítico de la tecnología, en consonancia con los objetivos del Plan Digital del centro.</p>
+<p style="text-align: justify;"><em><strong>Plan de Coeducación</strong></em><br />A través del trabajo de las emociones, se promueve la igualdad en la expresión emocional, rompiendo estereotipos de género asociados a determinadas emociones (por ejemplo, la idea de que ciertas emociones son propias de chicos o chicas). Se fomenta el respeto, la igualdad y la valoración de la diversidad afectiva y emocional.</p>
+<p style="text-align: justify;"><em><strong>Programa de Salud</strong></em><br />Contribuye al desarrollo del bienestar integral del alumnado, especialmente en lo relativo a la salud emocional. Se trabajan estrategias de regulación emocional, autoconocimiento y gestión del estrés, aspectos fundamentales para la prevención de problemas relacionados con la salud mental y el fomento de hábitos de vida saludables.</p>
+<p style="text-align: justify;">En conjunto, esta propuesta se alinea con los objetivos estratégicos del centro, contribuyendo al desarrollo integral del alumnado y favoreciendo una educación inclusiva, equitativa y orientada al bienestar personal y social.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776082178911-p5da92zzb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La presente Situación de Aprendizaje se encuentra estrechamente vinculada con los distintos planes y programas del centro, contribuyendo de manera directa a su desarrollo e implementación.</p>\n<p style=\"text-align: justify;\"><em><strong>Plan Integral de Convivencia</strong></em><br />Contribuyendo al desarrollo de un clima de convivencia positivo mediante el trabajo explícito de la educación emocional, favoreciendo la empatía, la resolución pacífica de conflictos y el respeto mutuo. Las actividades propuestas fomentan habilidades sociales esenciales para la mejora de las relaciones interpersonales y la prevención de conductas disruptivas.</p>\n<p style=\"text-align: justify;\"><em><strong>Plan de Atención a la Diversidad</strong></em><br />La propuesta contempla la diversidad del alumnado mediante el uso de metodologías activas como el aprendizaje cooperativo, que permite la participación de todo el alumnado desde sus diferentes capacidades. Asimismo, se plantean actividades abiertas, flexibles y adaptables, favoreciendo la inclusión y el respeto a los distintos ritmos de aprendizaje.</p>\n<p style=\"text-align: justify;\"><em><strong>Plan Digital del Centro</strong></em><br />Integra el uso de herramientas tecnológicas para la creación de productos digitales (infografías interactivas, vídeos o podcast), promoviendo el desarrollo de la competencia digital del alumnado. Se fomenta un uso responsable, creativo y crítico de la tecnología, en consonancia con los objetivos del Plan Digital del centro.</p>\n<p style=\"text-align: justify;\"><em><strong>Plan de Coeducación</strong></em><br />A través del trabajo de las emociones, se promueve la igualdad en la expresión emocional, rompiendo estereotipos de género asociados a determinadas emociones (por ejemplo, la idea de que ciertas emociones son propias de chicos o chicas). Se fomenta el respeto, la igualdad y la valoración de la diversidad afectiva y emocional.</p>\n<p style=\"text-align: justify;\"><em><strong>Programa de Salud</strong></em><br />Contribuye al desarrollo del bienestar integral del alumnado, especialmente en lo relativo a la salud emocional. Se trabajan estrategias de regulación emocional, autoconocimiento y gestión del estrés, aspectos fundamentales para la prevención de problemas relacionados con la salud mental y el fomento de hábitos de vida saludables.</p>\n<p style=\"text-align: justify;\">En conjunto, esta propuesta se alinea con los objetivos estratégicos del centro, contribuyendo al desarrollo integral del alumnado y favoreciendo una educación inclusiva, equitativa y orientada al bienestar personal y social.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxcwppl-bzy4pxl38</odePageId>
+  <odeParentPageId>page-mnxcwppe-4mt154hm4</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppl-bzy4pxl38</odePageId>
+      <odeBlockId>block-1776094673230-d0vntvjms</odeBlockId>
+      <blockName></blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppl-bzy4pxl38</odePageId>
+          <odeBlockId>block-1776094673230-d0vntvjms</odeBlockId>
+          <odeIdeviceId>idevice-1776094673228-tygwlrh2e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el objetivo de reforzar y ampliar los aprendizajes desarrollados en la SdA, se plantean las siguientes actividades complementarias vinculadas al bienestar emocional y al desarrollo personal del alumnado.</p>
+<ul>
+<li>Exposición de productos finales: organización de un espacio en el centro (pasillo, biblioteca, aula) donde se presenten las infografías y productos digitales elaborados por el alumnado, favoreciendo la difusión y el reconocimiento del trabajo realizado.</li>
+<li>Dinámicas de grupo y taller de fortalecimiento de la cohesión grupal: llevar a cabo un sociograma para conocer mejor las relaciones internas del grupo, realizar actividades breves orientadas a mejorar la convivencia, la empatía y el respeto entre el alumnado, etc.</li>
+<li>Visionado de materiales audiovisuales: uso de vídeos o cortometrajes relacionados con las emociones y el bienestar emocional como apoyo a los contenidos trabajados.</li>
+<li>Charla o taller con profesionales: participación de especialistas (orientador/a, psicólogo/a, educador/a social) que aborden temas relacionados con la gestión emocional y la salud mental.</li>
+<li>Participación en programas o campañas de sensibilización: actividades relacionadas con el bienestar emocional, la convivencia o la salud (por ejemplo, días internacionales vinculados a la salud mental o la educación emocional).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776094673228-tygwlrh2e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el objetivo de reforzar y ampliar los aprendizajes desarrollados en la SdA, se plantean las siguientes actividades complementarias vinculadas al bienestar emocional y al desarrollo personal del alumnado.</p>\n<ul>\n<li>Exposición de productos finales: organización de un espacio en el centro (pasillo, biblioteca, aula) donde se presenten las infografías y productos digitales elaborados por el alumnado, favoreciendo la difusión y el reconocimiento del trabajo realizado.</li>\n<li>Dinámicas de grupo y taller de fortalecimiento de la cohesión grupal: llevar a cabo un sociograma para conocer mejor las relaciones internas del grupo, realizar actividades breves orientadas a mejorar la convivencia, la empatía y el respeto entre el alumnado, etc.</li>\n<li>Visionado de materiales audiovisuales: uso de vídeos o cortometrajes relacionados con las emociones y el bienestar emocional como apoyo a los contenidos trabajados.</li>\n<li>Charla o taller con profesionales: participación de especialistas (orientador/a, psicólogo/a, educador/a social) que aborden temas relacionados con la gestión emocional y la salud mental.</li>\n<li>Participación en programas o campañas de sensibilización: actividades relacionadas con el bienestar emocional, la convivencia o la salud (por ejemplo, días internacionales vinculados a la salud mental o la educación emocional).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxcwppl-vaznvw89y</odePageId>
+  <odeParentPageId>page-mnxcwppe-4mt154hm4</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxcwppl-vaznvw89y</odePageId>
+      <odeBlockId>block-1776095542797-r783pxt7t</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxcwppl-vaznvw89y</odePageId>
+          <odeBlockId>block-1776095542797-r783pxt7t</odeBlockId>
+          <odeIdeviceId>idevice-1776095542794-ncm92b6t9</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" style="width: 56.1272%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 25.2504%;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">El Universo de las Emociones</span></td>
+</tr>
+<tr>
+<th style="width: 25.2504%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 25.2504%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th style="width: 25.2504%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#2029ac;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
